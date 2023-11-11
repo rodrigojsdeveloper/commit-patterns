@@ -25,8 +25,16 @@ solucionando um problema.
 
 - `perf` - Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a performance.
 
-<br/>
-<h2 align="center">Exemplos</h2>
+## Recomendações
+
+- Certifique-se de adicionar um tipo consistente com o conteúdo.
+- Recomenda-se que cada commit contenha no máximo 4 palavras.
+- Utilize a descrição do commit para fornecer detalhes adicionais.
+- Se necessário, adicione um emoji no início da mensagem de commit para representar o propósito do commit.
+- Escreva commits curtos e objetivos para facilitar a compreensão.
+- Siga a convenção de escrever os commits em inglês.
+
+## Exemplos
 
 <table>
   <thead>
@@ -62,9 +70,9 @@ solucionando um problema.
     </tr>
     <tr>
       <td>
-        <code>git commit -m "refactor: change default functions to arrow functions"</code>
+        <code>git commit -m "refactor: default functions to arrow functions"</code>
       </td>
-      <td>refactor: change default functions to arrow functions</td>
+      <td>refactor: default functions to arrow functions</td>
     </tr>
     <tr>
       <td>
@@ -104,3 +112,7 @@ solucionando um problema.
     </tr>
   </tbody>
 </table>
+
+<br/>
+<p align="center">Desenvolvido por <a href="https://www.linkedin.com/in/rodrigo-de-jesus-silva/">Rodrigo Silva</a>
+</p>
