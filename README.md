@@ -24,3 +24,83 @@ solucionando um problema.
 - `ci` - Commits do tipo ci indicam mudanças relacionadas a integração contínua.
 
 - `perf` - Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a performance.
+
+<br/>
+<h2 align="center">Exemplos</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Comando Git</th>
+      <th>Resultado no GitHub</th>
+    </tr>
+  </thead>
+ <tbody>
+    <tr>
+      <td>
+        <code>git commit -m "initial commit"</code>
+      </td>
+      <td>initial commit</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "feat: add new feature"</code>
+      </td>
+      <td>feat: add new feature</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "fix: fix bug"</code>
+      </td>
+      <td>fix: fix bug</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "style: tailwind css code formatting"</code>
+      </td>
+      <td>style: tailwind css code formatting</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "refactor: change default functions to arrow functions"</code>
+      </td>
+      <td>refactor: change default functions to arrow functions</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "docs: update README.md"</code>
+      </td>
+      <td>docs: update README.md</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "test: add unit tests to users"</code>
+      </td>
+      <td>test: add unit tests to users</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "chore: add a package to .gitignore"</code>
+      </td>
+      <td>chore: add a package to .gitignore</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "build: change in dependencies"</code>
+      </td>
+      <td>build: change in dependencies</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "ci: change in Dockerfile"</code>
+      </td>
+      <td>ci: change in Dockerfile</td>
+    </tr>
+    <tr>
+      <td>
+        <code>git commit -m "perf: Improvement in response time"</code>
+      </td>
+      <td>perf: Improvement in response time</td>
+    </tr>
+  </tbody>
+</table>
